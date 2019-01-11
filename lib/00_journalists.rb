@@ -90,4 +90,3 @@ end
 def index_epenser
     puts @journalists.index("@epenser")
 end
-fifty_handles
